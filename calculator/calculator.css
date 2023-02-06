@@ -9,8 +9,10 @@ body{
     padding: 5px;
     border: 2px solid black;
     animation: buldge 2s;
-    text-shadow: black 0px 0px 8px;
-  border-radius: 10px;}
+    text-shadow: black 0px 0px 2px;
+    border-radius: 10px;
+    z-index: 2;
+    position: relative;}
 img{
 
   width: 20%;
@@ -21,7 +23,6 @@ img{
   border-radius: 15px;
   box-shadow: 2px 2px 25px 8px black;
     padding:38px 23px;
-    width: 30%;
     background-color: black;
 
 }
