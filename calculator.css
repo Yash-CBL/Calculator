@@ -1,7 +1,8 @@
 body{
   background-image: url(calculator-pen-table-calendar-blue-background-top-view-office-desk-copy-space-179944470.jpg);
   background-repeat: no-repeat;
-  /* background-position: 100%; */
+  background-position: 100%;
+  height: 100vh;
   background-size: cover;
 }
 .heading{

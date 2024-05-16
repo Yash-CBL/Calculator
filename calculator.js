@@ -69,6 +69,7 @@ btns.forEach(btt => {
         else if (value == "Clear") {
             input = input.replace(/.$/, '')
             document.getElementById("inputField").value = input
+            document.getElementById("result").value = ""
         }
 
 
